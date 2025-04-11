@@ -1,5 +1,5 @@
 // Exercise 1: Variable Declaration
-let name = "Immanuel";
+let name = "WANGA";
 let age = 30;
 let isStudent = false;
 console.log(name, age, isStudent);
